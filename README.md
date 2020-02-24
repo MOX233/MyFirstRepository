@@ -4,3 +4,5 @@
 https://github.com/MOX233/MyFirstRepository
 
 https://baidu.com
+
+https://learn.tsinghua.edu.cn
